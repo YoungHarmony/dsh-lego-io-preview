@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "乐高 .io 预览",
+    "description": "在右侧边栏直接查看 BrickLink Studio 的 .io 乐高模型：解析 modelv2.ldr 零件清单，用内置的常用零件绘制，可旋转、缩放、检查模型，不需要安装 Studio 或 Python。"
+  }
+}

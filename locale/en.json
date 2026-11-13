@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "LEGO .io preview",
+    "description": "Open BrickLink Studio .io LEGO models in the right sidebar: the modelv2.ldr part list is parsed and drawn with built-in common parts, so you can orbit, zoom and check a model without Studio or Python."
+  }
+}
