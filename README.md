@@ -5,6 +5,12 @@ DSH right sidebar. Open an `.io` file from the workspace and the panel parses
 its `modelv2.ldr`, resolves the part list against a bundled LDraw part set and
 renders it with WebGL2 — no Studio install, no Python, no external converter.
 
+![A 88-part BrickLink Studio J-20 fighter model rendered in the side panel](screenshots/j20-preview.png)
+
+A real BrickLink Studio model (J-20 fighter, 88 parts / 31 part kinds) opened
+from the file tree: every part is drawn from LDraw geometry, orbit and zoom work
+inside the sidebar panel.
+
 ## What it shows
 
 - type-11 part lines from `modelv2.ldr` (falls back to `model.ldr`, then to
