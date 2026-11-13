@@ -13,6 +13,14 @@
     "preview"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HMYoung/dsh-lego-io-preview.git"
+  },
+  "homepage": "https://github.com/HMYoung/dsh-lego-io-preview#readme",
+  "bugs": {
+    "url": "https://github.com/HMYoung/dsh-lego-io-preview/issues"
+  },
   "type": "module",
   "main": "index.js",
   "icon": "icon.svg",
